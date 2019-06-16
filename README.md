@@ -9,4 +9,4 @@ A simple static web for personal website
 - personal products
 - contact information
 
-Link:https://sianjyunkuo.github.io/personal-website/
+Link: https://sianjyunkuo.github.io/personal-website/
